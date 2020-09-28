@@ -1,0 +1,44 @@
+h1 {
+	text-align: center;
+}
+
+
+#chicken {
+	background-color: #F08080;
+	border:1px solid black;
+	padding: 1px 10px  1px 10px;
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	
+}
+
+#beef {
+	background-color: #B22222;
+	border:1px solid black;
+	padding: 1px 10px  1px 10px;
+	position: absolute;
+	top: 0px;
+	right: 0px;
+
+}
+
+#sushi {
+	background-color: #F0E68C;
+	border:1px solid black;
+	padding: 1px 10px  1px 10px;
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	
+}
+
+#p1, #p2, #p3 {
+	background-color: #808080;
+	border:3px solid black;
+	overflow: auto;
+	padding: 10px 10px 10px 10px;
+	margin: 10px;
+	position: relative;
+	float: left;
+}
